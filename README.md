@@ -28,9 +28,26 @@ Jak wpisywać obrazki?
 ```
 
 
-Przykład w C++
+#Przykład w C++
 
 ```c
 int main(){
    return 0 
 }
+```
+
+Teraz inny przykład
+
+#Przykład w Pascalu
+
+```pas
+Program Pasek;
+ Uses Crt;
+ Var   //deklaracja zmiennych
+   i, j, k :Byte;
+    
+begin
+   Write('Nic nie robię');
+   Readln;   //czekam na naciśnięcie klawisza ENTER
+end.   // end z kropką kończy program
+```
