@@ -15,8 +15,8 @@ Przykladowy obrazek:  ![Kotek](http://c.wrzuta.pl/wi10415/cf984b07001ff42c4a4cba
 
 składnia: nawiasy[Opis_tekst] nawiasy(link_do_)
 
-
-
+patrz na dole strony-dokumentation: (link)
+http://github.github.com/github-flavored-markdown/
 
 
 Jak wpisywać obrazki?
