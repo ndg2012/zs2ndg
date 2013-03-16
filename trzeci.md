@@ -1,0 +1,1 @@
+# Dowcipy o programistach
