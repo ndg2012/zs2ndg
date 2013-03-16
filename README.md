@@ -18,6 +18,7 @@ składnia: nawiasy[Opis_tekst] nawiasy(link_do_)
 patrz na dole strony-dokumentation: (link)
 http://github.github.com/github-flavored-markdown/
 
+Scieżka lokalna: link rozpoczyna się od slasha[sciezka_lokalna](/)
 
 Jak wpisywać obrazki?
 
@@ -28,3 +29,8 @@ Jak wpisywać obrazki?
 
 
 Przykład w C++
+
+```c
+int main(){
+   return 0 
+}
